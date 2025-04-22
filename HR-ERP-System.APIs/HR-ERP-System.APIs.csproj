@@ -14,6 +14,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\HR-ERP-System.Core\HR-ERP-System.Core.csproj" />
+    <ProjectReference Include="..\HR-ERP-System.Repository\HR-ERP-System.Infrastructure.csproj" />
     <ProjectReference Include="..\HR-ERP-System.Services\HR-ERP-System.Services.csproj" />
   </ItemGroup>
 
